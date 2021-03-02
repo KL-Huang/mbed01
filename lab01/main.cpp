@@ -12,7 +12,7 @@ int main()
     myled2 = 1;
     while (true)
     {
-        Ledd(myled);
         Led(myled2);
+        Ledd(myled);
     }
 }
